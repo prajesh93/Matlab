@@ -1,0 +1,4 @@
+Steps:
+1.Store the files Boat.jpg and sea-7.jpg in the folder where the program file is saved 
+2. Click on run and enter the image name as a parameter.
+3. Hit enter.(It will run the code and all the images will appear)
